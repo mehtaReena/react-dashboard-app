@@ -70,7 +70,8 @@ hr{
 	height: 0;
 	border-left: 25px solid transparent;
 	border-right: 25px solid transparent;
-	border-bottom: 50px solid #004d00;
+	border-bottom: 50px solid #008000;
+  ;
 }
 .triangle-down {
 	width: 0;
